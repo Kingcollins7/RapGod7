@@ -111,7 +111,7 @@
       font-style: oblique;
       font-style: italic;
       font-family: 'Citrus Gothic Shadow';
-      text-shadow: black 0 6px 4px ;
+      text-shadow: blue 0 6px 4px ;
     }
 
     .glass-box p {
@@ -203,7 +203,7 @@ nav ul li a:hover {
 
       .glass-box h1 {
         font-size: 3rem;
-        /* font-family: 'Citrus Gothic Rough'; */
+        font-family: 'Citrus Gothic Shadow';
       }
 
       .glass-box p {
