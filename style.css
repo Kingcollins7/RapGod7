@@ -115,7 +115,7 @@
     }
 
     .glass-box p {
-      font-size: 1.2rem;
+      font-size: 25px;
       line-height: 1.6;
       opacity: 0.9;
       color: black;
@@ -181,7 +181,7 @@ nav ul li:last-child {
 
 nav ul li a {
   display: block;
-  padding: 8px 0;   /* reduced spacing */
+  padding: 2px 0;   /* reduced spacing */
   color: white;
   text-decoration: none;
   font-weight: 500;
@@ -226,7 +226,6 @@ nav ul li a:hover {
       /* opacity: 900%; */
     }
 
-
     .Services {
       height: 100vh;
       width: 100%;
@@ -268,6 +267,7 @@ nav ul li a:hover {
   font-size: 1.1rem;
   line-height: 1.8;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
 }
 
 .abot-img {
@@ -295,10 +295,12 @@ nav ul li a:hover {
 
   .abot-text h1 {
     font-size: 2rem;
+    color: white;
   }
 
   .abot-text p {
     font-size: 1rem;
+    color: white;
   }
 
   .abot-img {
@@ -318,10 +320,12 @@ nav ul li a:hover {
   }
   .abot-text h1 {
     font-size: 1.6rem;
+    color: white;
   }
 
   .abot-text p {
     font-size: 0.95rem;
+    color: white;
   }
 }
 
@@ -571,26 +575,7 @@ button:hover {
       /* background-color: #061122; */
       /* opacity: 900%; */
 }
-.abot-text{
-  color: white;
 
-}
-
-.abot-text h1{
-  text-align: center;
-  align-items: center;
-  font-size: 70px;
-  font-family: 'Times New Roman';
-  text-shadow: 0 3px 4px pink;
-  font-weight: bolder;
-  font-style: oblique;
-}
-
-.abot-text p{
-  text-align: center;
-  align-items: center;
-  
-}
 /*gallery section */
 
 * {
